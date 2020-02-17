@@ -10,10 +10,10 @@ Upon succesful connection and validation of certificate, a TPP will then be requ
 
 ## Production MCI endpoint
 
-BFC's endpoint where a TPP can get authorised MCI access is: [mci.bfconline.bfcbank.co.uk] (mci.bfconline.bfcbank.co.uk). This endpoint is only available to TPPs with a valid QWAC.
+BFC's endpoint where a TPP can get authorised MCI access is: [mci.bfconline.bfcbank.co.uk](mci.bfconline.bfcbank.co.uk). This endpoint is only available to TPPs with a valid QWAC.
 
 ## Staging MCI endpoint
 
-BFC has also provided a testing facility in the form of a staging link: [sandbox.mci.bfconline.bfcbank.co.uk] (sandbox.mci.bfconline.bfcbank.co.uk). This endpoint is available to TPPs who have a test certificate from the [UK Open Banking Directory] (https://www.openbanking.org.uk/providers/directory/).
+BFC has also provided a testing facility in the form of a staging link: [sandbox.mci.bfconline.bfcbank.co.uk](sandbox.mci.bfconline.bfcbank.co.uk). This endpoint is available to TPPs who have a test certificate from the [UK Open Banking Directory](https://www.openbanking.org.uk/providers/directory/).
 
 [Home](../index)
