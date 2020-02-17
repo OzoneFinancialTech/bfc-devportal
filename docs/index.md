@@ -1,8 +1,8 @@
-# BFC Bank Developer Portal
+## BFC Bank Developer Portal
 
-## Introduction
+### Introduction
 The journey begins here ...
 
-## Links
+### Links
 [APIs](./apis/index)
 [MCI](./mci/index)
