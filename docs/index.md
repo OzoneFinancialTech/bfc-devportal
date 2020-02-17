@@ -19,4 +19,5 @@ If there is disruption in serivice or issues when a connection is being establis
 The following notice board is designed to give TPPs advanced notice of any changes to either the MCI or API interface. Execpt in emergency situations, BFC will aim to give TPPs at least three month's notice prior to making any changes.
 
 | Date of Notice | Details of Change | Date of Change | Status | Notes |
-| -------------- | --------------------------------------------- | -------------- | -------------- | ------------------------- |
+| -------------- | ------------------| -------------- |------- | ----- |
+|||||
