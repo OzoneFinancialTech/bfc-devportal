@@ -4,5 +4,6 @@
 The journey begins here ...
 
 ### Links
-[APIs](./apis/index)
-[MCI](./mci/index)
+
+- [APIs](./apis/index)
+- [MCI](./mci/index)
