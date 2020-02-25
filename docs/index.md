@@ -1,5 +1,3 @@
-# BFC Bank Developer Portal
-
 ## Introduction
 
 BFC Bank is currently developing a PSD2 compliant dedicated (API) interface, due for launch later in 2020. In the meantime, BFC has implemented a Modified Customer Interface (MCI) as a PSD2 contingency mechanism, designed to allow authorised Third Party Developers (TPPs) access to Payment Service User (PSU) accounts.
