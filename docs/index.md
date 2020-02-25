@@ -11,7 +11,7 @@ BFC Bank is currently developing a PSD2 compliant dedicated (API) interface, due
 
 ## Support
 
-If there is disruption in serivice or issues when a connection is being established, a TPP is encouraged to check integration on thier end. If problem persists, please raise a support ticket with our [service desk] (https://www.bfcbank.co.uk/help-centre/)
+If there is disruption in serivice or issues when a connection is being established, a TPP is encouraged to check integration on thier end. If problem persists, please raise a support ticket with our [service desk](https://www.bfcbank.co.uk/help-centre/)
 
 
 ## Noticeboard
