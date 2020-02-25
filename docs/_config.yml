@@ -1,5 +1,5 @@
 remote_theme: bfcbank-uk/bfc-slate
-title: BFC Bank Openbanking Developer Portal
-description: Developer portal for the BFC Bank MCI and APIs
-show_downloads: true
-google_analytics:
+title: BFC Bank Developer Portal
+description: Developer portal for the BFC Bank's MCI and APIs
+show_downloads: false
+google_analytics: false
